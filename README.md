@@ -3,6 +3,8 @@ Building a Custom License plate Detector and recognizer
 
 This repo let's you train a custom license plate detector using the state-of-the-art [YOLOv3](https://pjreddie.com/darknet/yolo/) computer vision algorithm.
 
+![Number Plate Detection](Predicted output.jpg)
+
 The pytessaract OCR algorithm has been applied on the detected license plates to extract the text data.The code for pytessaract has been integrated as a separate class along with detection scripts in [`Number Plate Detection and Recognition/3_Inference]. 
 
 Other ML algorithms like SVM, SVC and KNN3 were also tried for better performances. In case ML algorithms are to be used for text recognition, character segmentation has to be performed. Code for segmentation, Text prediction algorithms and trained models has been attached as an .ipynb file. 
