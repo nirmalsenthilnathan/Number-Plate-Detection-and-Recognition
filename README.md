@@ -8,18 +8,17 @@ The pytessaract OCR algorithm has been applied on the detected license plates to
 Other ML algorithms like SVM, SVC and KNN3 were also tried for better performances. In case ML algorithms are to be used for text recognition, character segmentation has to be performed. Code for segmentation, Text prediction algorithms and trained models has been attached as an .ipynb file. 
 
 1.Repo structure:
-+ [`Number Plate Dataset`]: Annotated license plate images for Indian vehicles and vehicles worldwide
++ [`Dataset`]: Annotated license plate images for Indian vehicles.
 
 + [`Text Dataset`]: Dataset to train OCR using ML algorithms.
 
-+ [`Number Plate Detection and Recognition`]: Scripts and instructions on testing your trained YOLO license plate detection model on new images and videos  cited from (https://github.com/antonmu/trainyourownyolo)
++ [`Code`]: Scripts and instructions on testing your trained YOLO license plate detection model on new images and videos  cited from (https://github.com/antonmu/trainyourownyolo)
 
 + [`Predict Text Models`]: Trained ML models for Text detection
 
 + [`XML to CSV`]: XML to CSV for YOLO data prepartion
 
 2.Getting Started:
-### Requisites
 The only hard requirement is a running version of python 3.3 or newer. To install the latest python 3.x version go to 
 - [python.org/downloads](https://www.python.org/downloads/) 
 
