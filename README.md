@@ -10,11 +10,7 @@ Other ML algorithms like SVM, SVC and KNN3 were also tried for better performanc
 1.Repo structure:
 + [`Dataset`]: Annotated license plate images for Indian vehicles.
 
-+ [`Text Dataset`]: Dataset to train OCR using ML algorithms.
-
 + [`Code`]: Scripts and instructions on testing your trained YOLO license plate detection model on new images and videos  cited from (https://github.com/antonmu/trainyourownyolo)
-
-+ [`Predict Text Models`]: Trained ML models for Text detection
 
 + [`XML to CSV`]: XML to CSV for YOLO data prepartion
 
