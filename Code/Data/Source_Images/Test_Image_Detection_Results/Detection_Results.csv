@@ -1,0 +1,2 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+test.jpg,/home/nirmal/Documents/Alabs/Number Plate Detection and Recognition/Data/Source_Images/Test_Images/test.jpg,152,246,355,301,0,0.17425483465194702,500,416
